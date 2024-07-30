@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\workspaces\\C#\\BlazorSyncfushionCrm\\BlazorSyncfushionCrm.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\workspaces\\C#\\BlazorSyncfushionCrm\\BlazorSyncfushionCrm.Client\\obj\\Debug\\net8.0\\compressed\\a3xzbv9q56.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\workspaces\\C#\\BlazorSyncfushionCrm\\BlazorSyncfushionCrm.Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorSyncfushionCrm.Client.styles.css",
+      "PackagePath": "staticwebassets\\BlazorSyncfushionCrm.Client.styles.css"
+    },
+    {
+      "Id": "C:\\workspaces\\C#\\BlazorSyncfushionCrm\\BlazorSyncfushionCrm.Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\workspaces\\C#\\BlazorSyncfushionCrm\\BlazorSyncfushionCrm.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\workspaces\\C#\\BlazorSyncfushionCrm\\BlazorSyncfushionCrm.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\workspaces\\C#\\BlazorSyncfushionCrm\\BlazorSyncfushionCrm.Client\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\workspaces\\C#\\BlazorSyncfushionCrm\\BlazorSyncfushionCrm.Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\workspaces\\C#\\BlazorSyncfushionCrm\\BlazorSyncfushionCrm.Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\workspaces\\C#\\BlazorSyncfushionCrm\\BlazorSyncfushionCrm.Client\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorSyncfushionCrm.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorSyncfushionCrm.Client.props",
+      "PackagePath": "build\\BlazorSyncfushionCrm.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorSyncfushionCrm.Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazorSyncfushionCrm.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorSyncfushionCrm.Client.props",
+      "PackagePath": "buildTransitive\\BlazorSyncfushionCrm.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

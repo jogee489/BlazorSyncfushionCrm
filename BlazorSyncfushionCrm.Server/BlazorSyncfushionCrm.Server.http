@@ -1,0 +1,6 @@
+@BlazorSyncfushionCrm.Server_HostAddress = http://localhost:5228
+
+GET {{BlazorSyncfushionCrm.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
