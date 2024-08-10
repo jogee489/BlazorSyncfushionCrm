@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorSyncfushionCrm.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51b65535333bfd43773f41a63fc35c91f3d8113f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorSyncfushionCrm.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorSyncfushionCrm.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

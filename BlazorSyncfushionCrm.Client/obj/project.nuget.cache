@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SMnundHCEr4=",
+  "dgSpecHash": "avHiq6NyhJc=",
   "success": true,
   "projectFilePath": "C:\\workspaces\\C#\\BlazorSyncfushionCrm\\BlazorSyncfushionCrm.Client\\BlazorSyncfushionCrm.Client.csproj",
   "expectedPackageFiles": [
@@ -30,9 +30,22 @@
     "C:\\Users\\pouil\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.7\\microsoft.jsinterop.webassembly.8.0.7.nupkg.sha512",
     "C:\\Users\\pouil\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
     "C:\\Users\\pouil\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.7\\microsoft.net.sdk.webassembly.pack.8.0.7.nupkg.sha512",
+    "C:\\Users\\pouil\\.nuget\\packages\\syncfusion.blazor.buttons\\26.2.8\\syncfusion.blazor.buttons.26.2.8.nupkg.sha512",
+    "C:\\Users\\pouil\\.nuget\\packages\\syncfusion.blazor.core\\26.2.8\\syncfusion.blazor.core.26.2.8.nupkg.sha512",
+    "C:\\Users\\pouil\\.nuget\\packages\\syncfusion.blazor.data\\26.2.8\\syncfusion.blazor.data.26.2.8.nupkg.sha512",
+    "C:\\Users\\pouil\\.nuget\\packages\\syncfusion.blazor.dropdowns\\26.2.8\\syncfusion.blazor.dropdowns.26.2.8.nupkg.sha512",
+    "C:\\Users\\pouil\\.nuget\\packages\\syncfusion.blazor.inputs\\26.2.8\\syncfusion.blazor.inputs.26.2.8.nupkg.sha512",
+    "C:\\Users\\pouil\\.nuget\\packages\\syncfusion.blazor.lists\\26.2.8\\syncfusion.blazor.lists.26.2.8.nupkg.sha512",
+    "C:\\Users\\pouil\\.nuget\\packages\\syncfusion.blazor.navigations\\26.2.8\\syncfusion.blazor.navigations.26.2.8.nupkg.sha512",
+    "C:\\Users\\pouil\\.nuget\\packages\\syncfusion.blazor.notifications\\26.2.8\\syncfusion.blazor.notifications.26.2.8.nupkg.sha512",
+    "C:\\Users\\pouil\\.nuget\\packages\\syncfusion.blazor.popups\\26.2.8\\syncfusion.blazor.popups.26.2.8.nupkg.sha512",
+    "C:\\Users\\pouil\\.nuget\\packages\\syncfusion.blazor.spinner\\26.2.8\\syncfusion.blazor.spinner.26.2.8.nupkg.sha512",
+    "C:\\Users\\pouil\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\26.2.8\\syncfusion.blazor.splitbuttons.26.2.8.nupkg.sha512",
+    "C:\\Users\\pouil\\.nuget\\packages\\syncfusion.blazor.themes\\26.2.8\\syncfusion.blazor.themes.26.2.8.nupkg.sha512",
+    "C:\\Users\\pouil\\.nuget\\packages\\syncfusion.licensing\\26.2.8\\syncfusion.licensing.26.2.8.nupkg.sha512",
     "C:\\Users\\pouil\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\pouil\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
-    "C:\\Users\\pouil\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\pouil\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512",
     "C:\\Users\\pouil\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.7.nupkg.sha512"
   ],
   "logs": []

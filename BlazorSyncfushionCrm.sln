@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorSyncfushionCrm.Server
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorSyncfushionCrm.Shared", "BlazorSyncfushionCrm.Shared\BlazorSyncfushionCrm.Shared.csproj", "{6942CDDB-7BC4-459A-A2F4-5A37B1846C6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSyncfushionCrm.Client", "BlazorSyncfushionCrm.Client\BlazorSyncfushionCrm.Client.csproj", "{925F2698-C4FC-491F-8F9F-16B83E6B40F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorSyncfushionCrm.Client", "BlazorSyncfushionCrm.Client\BlazorSyncfushionCrm.Client.csproj", "{925F2698-C4FC-491F-8F9F-16B83E6B40F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

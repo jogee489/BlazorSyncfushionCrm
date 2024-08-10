@@ -70,6 +70,22 @@
               "target": "Package",
               "version": "[8.0.7, )",
               "autoReferenced": true
+            },
+            "Syncfusion.Blazor.Buttons": {
+              "target": "Package",
+              "version": "[26.2.8, )"
+            },
+            "Syncfusion.Blazor.Core": {
+              "target": "Package",
+              "version": "[26.2.8, )"
+            },
+            "Syncfusion.Blazor.Navigations": {
+              "target": "Package",
+              "version": "[26.2.8, )"
+            },
+            "Syncfusion.Blazor.Themes": {
+              "target": "Package",
+              "version": "[26.2.8, )"
             }
           },
           "imports": [
