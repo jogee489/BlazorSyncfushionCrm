@@ -1,0 +1,41 @@
+﻿@page "/contacts"
+@inject NavigationManager NavigationManager
+@inject HttpClient Http
+
+<h3>Contacts</h3>
+<SfGrid DataSource="ContactsData" AllowFiltering="true" Toolbar="@(new List<string>() { "Search" })">
+    <GridFilterSettings Type="Syncfusion.Blazor.Grids.FilterType.CheckBox" />
+    <GridColumns>
+        <GridColumn Width="60">
+            <Template>
+                @{
+                    var contact = context as Contact;
+                    <SfButton CssClass="e-inherit" IconCss="e-icons e-edit"
+                              OnClick="@(() => EditContact(contact!.Id))" />
+                }
+            </Template>
+        </GridColumn>
+        <GridColumn Field="FirstName" HeaderText="First Name" />
+        <GridColumn Field="LastName" HeaderText="Last Name" />
+        <GridColumn Field="NickName" HeaderText="Nick Name" />
+        <GridColumn Field="Place" HeaderText="Place" />
+        <GridColumn Field="DateOfBirth" HeaderText="Date of Birth" Format="yyyy-MM-dd" />
+    </GridColumns>
+</SfGrid>
+@code {
+    public List<Contact> ContactsData { get; set; } = new List<Contact>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        var result = await Http.GetFromJsonAsync<List<Contact>>("api/contacts");
+        if (result is not null)
+        {
+            ContactsData = result;
+        }
+    }
+
+    void EditContact(int id) 
+    {
+        NavigationManager.NavigateTo($"/contacts/edit{id}");
+    }
+}
